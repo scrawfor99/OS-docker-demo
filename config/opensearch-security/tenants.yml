@@ -8,4 +8,4 @@ _meta:
 ## Demo tenants
 admin_tenant:
   reserved: false
-  description: "Tenant for 2.1.0 Sanity Testing"
+  description: "Demo tenant for admin user"
